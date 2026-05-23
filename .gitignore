@@ -1,0 +1,1 @@
+Nothing should be ignored based on the provided file changes, as only a Python source file (`hola_mundo.py`) was modified without any build artifacts, dependencies, or temporary files being added.
